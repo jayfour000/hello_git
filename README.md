@@ -44,7 +44,7 @@ git status
 git add .
 
 // Create a new commit that includes the changes
-git commit -m"Added the feedback form"
+git commit -m"Chagned the feedback form"
 
 // Push (upload) the changes to origin
 git push
