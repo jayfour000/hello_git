@@ -12,7 +12,7 @@ cd ~/work
 // Make a directory for this project
 mkdir hello_git
 
-// Chnage directory to the folder you just made
+// Change directory to the folder you just made
 cd hello git
 
 // Clone (download) the Git repository to your local machine
