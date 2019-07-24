@@ -22,6 +22,9 @@ git clone https://github.com/jayfour000/hello_git.git
 // Option 2 - With SSH
 git clone git@github.com:jayfour000/hello_git.git
 
+//Enter local repository
+cd hello_git
+
 // Check out the `develop` branch
 git checkout develop
 
